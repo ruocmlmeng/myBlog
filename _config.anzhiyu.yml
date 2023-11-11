@@ -153,9 +153,9 @@ default_top_img: false
 
 cover:
   # display the cover or not (是否显示文章封面)
-  index_enable: true
-  aside_enable: true
-  archives_enable: true
+  index_enable: false
+  aside_enable: false
+  archives_enable: false
   # the position of cover in home page (封面显示的位置)
   # left/right/both
   position: left
@@ -200,10 +200,10 @@ mainTone:
 # wordcount (字数统计)
 # see https://blog.anheyu.com/posts/c27d.html#字数统计
 wordcount:
-  enable: true
-  post_wordcount: true
-  min2read: true
-  total_wordcount: true
+  enable: false
+  post_wordcount: false
+  min2read: false
+  total_wordcount: false
 
 # Display the article introduction on homepage
 # 1: description
@@ -636,7 +636,7 @@ h2Divider: false
 table_interlaced_discoloration: false
 
 # 首页双栏显示
-article_double_row: true
+article_double_row: false
 
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默认top_img全屏，site_info在中间)

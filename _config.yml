@@ -39,7 +39,7 @@ external_link:
   field: site # Apply to the whole site
   exclude: ''
 filename_case: 0
-render_drafts: false
+render_drafts: true #显示草稿
 post_asset_folder: false
 relative_link: false
 future: true
@@ -102,15 +102,12 @@ theme: anzhiyu
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/ruocmlmeng/ruocmlmeng.github.io.git
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: main
 
-#server
-server:
-  port: 5554
-  log: true
-  ot: true
-#livereload
-livereload:
-  enable: true
+
+
 
 
