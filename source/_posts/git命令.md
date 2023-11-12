@@ -5,6 +5,7 @@ tags:
   - 博客
   - git
 category: git
+cover: https://ruocmlmeng.github.io/blog/images/avatar2.jgp
 ---
 # git命令
 
