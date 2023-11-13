@@ -5,7 +5,10 @@ tags:
   - 博客
   - git
 category: git
-cover: https://ruocmlmeng.github.io/blog/images/avatar2.jgp
+cover: /images/backgroundFriend.png
+ai:
+  - 本教程介绍了如何在博客中安装基于Hexo主题的安知鱼主题，并提供了安装、应用主题、修改配置文件、本地启动等详细步骤及技术支持方式。教程的内容针对最新的主题版本进行更新，如果你是旧版本教程会有出入。
+  - 本文真不错
 ---
 # git命令
 
