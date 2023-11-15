@@ -1160,11 +1160,6 @@
   dependencies:
     "cheerio" "^0.19.0"
 
-"hexo-asset-img@^1.0.0":
-  "integrity" "sha512-9kzp+LINw15ouVrLvCdSLIKGBVhZ/LAJEvWQfowbyXi0OW2jJaJHkSkWcJ6udO4OEaxLvM1ffK+8IXucMAKawQ=="
-  "resolved" "https://registry.npmjs.org/hexo-asset-img/-/hexo-asset-img-1.0.0.tgz"
-  "version" "1.0.0"
-
 "hexo-bilibili-bangumi@^1.8.9":
   "integrity" "sha512-sn/IO5jE4DDnFoN56sp7Yup36H2GPsHslZQTSWl7ROJnwLfgkKHtHfO/A7yd1H//s39kuXZcAEP/x/EjJ9yHWw=="
   "resolved" "https://registry.npmjs.org/hexo-bilibili-bangumi/-/hexo-bilibili-bangumi-1.8.9.tgz"

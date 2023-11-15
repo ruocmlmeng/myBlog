@@ -5,7 +5,7 @@ tags:
   - 安卓
   - 技术
 category: Android
-top_img: /images/backgroundFriend.png
+#top_img: /images/backgroundFriend.png
 cover: /images/backgroundFriend.png
 ai:
   - 本教程介绍了安卓的基础知识
