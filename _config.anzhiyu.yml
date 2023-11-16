@@ -157,7 +157,7 @@ cover:
   archives_enable: true
   # the position of cover in home page (封面显示的位置)
   # left/right/both
-  position: both
+  position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
      - /img/default_cover.jpg
@@ -244,10 +244,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
+    - img: /images/wx.png
       link:
       text: 微信
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png
+    - img: /images/zfb.png
       link:
       text: 支付宝
 
@@ -839,14 +839,14 @@ aside:
 # 访问人数
 busuanzi:
   site_uv: true
-  site_pv: true
+  site_pv: false
   page_pv: true
 
 # Time difference between publish date and now (网页运行时间)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 4/1/2021 00:00:00
+  publish_date: 11/11/2023 00:00:00
 
 # Console - Newest Comments
 newest_comments:
