@@ -12,7 +12,7 @@
     "version": "7.0.0"
   },
   "dependencies": {
-    "hexo": "^7.0.0",
+    "hexo": "^7.1.0",
     "hexo-asset-image": "github:7ym0n/hexo-asset-image",
     "hexo-bilibili-bangumi": "^1.8.9",
     "hexo-butterfly-envelope": "^1.0.15",
